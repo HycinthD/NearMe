@@ -176,7 +176,7 @@ court.html
 ```
 
 ## OUTPUT
-![Alt text](MAP.png)
+![Alt text](NearMe.png)
 ![Alt text](Temple.png)
 ![Alt text](<Bus Stand.png>)
 ![Alt text](Court.png)
